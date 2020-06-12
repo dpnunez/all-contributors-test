@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "dpnunez",
+      "name": "Daniel Pôrto Nuñez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46852072?v=4",
+      "profile": "https://github.com/dpnunez",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "all-contributors-test",
+  "projectOwner": "dpnunez",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
